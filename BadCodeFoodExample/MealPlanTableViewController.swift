@@ -27,7 +27,7 @@ class MealPlanTableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("👋 Hi mom.")
+        print("👋 Hello.")
     }
 
     // MARK: - Table view data source
